@@ -1,0 +1,17 @@
+
+未来几天可能还会改一些简单的东西
+
+下载地址：http://down.vpsmm.com/codes/DirectoryLister_vpsmm.tar.gz
+
+===============
+
+2016.08.17修改内容：
+
+1.整理所有的css/js文件到本地，去掉google字体
+2.添加了flat-ui效果，个人比较喜欢大字体以及绿色的文字
+3.核心代码修改了一下，目录进行了伪静态化，原：/?dir=codes 改后：/codes/
+4.只添加了nginx.conf伪静态，apache我没有，也没测试
+
+===============
+
+原程序官网：http://www.directorylister.com/
